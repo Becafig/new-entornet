@@ -606,6 +606,10 @@ section { padding: 95px 0; }
         top: -300px;
 
     }
+
+    .support-grid {
+        justify-content: center;
+    }
 }
 
 a {
